@@ -1,2 +1,0 @@
-# murders
-Practicing Github repositories
